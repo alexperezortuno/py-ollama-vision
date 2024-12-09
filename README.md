@@ -13,5 +13,5 @@ pyinstaller --onefile main.py
 
 ## Run
 ```bash
-python main -i ./image.png
+python main.py -i ./image.png
 ```
